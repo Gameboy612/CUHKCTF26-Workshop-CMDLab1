@@ -1,5 +1,8 @@
 CMDLab1 Challenge:
 
+Category: Reverse Engineering
+Difficulty: 1/5 star
+
 Date: 17-11-2026
 Version 1.21+
 
